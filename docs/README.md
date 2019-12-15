@@ -10,7 +10,6 @@ This project wants to explore "How do best" concerning:
 
 This should be done by setting up this project with a given project structure, given code etc..
 
-
 by using [Real World Example](https://github.com/gothinkster/realworld)
 - https://react-redux.realworld.io/#/?_k=5jwwhz
 - https://github.com/gothinkster/realworld-starter-kit/blob/master/FRONTEND_INSTRUCTIONS.md
